@@ -40,6 +40,15 @@ Use a @media query to define different styles for larger screen sizes
     background-color: #ff9776;
 }
 
+.dark body {
+    background-color: #0d0950;
+    color: #fff;
+}
+
+.dark .nav-links a {
+    color: #fff;
+}
+
 .nav-links {
     width: 100%;
     top: 5rem;
