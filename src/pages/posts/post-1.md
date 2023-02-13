@@ -1,11 +1,13 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'My First Blog Post'
+author: Leo Carroll
 description: 'This is the first post of my new Astro blog.'
 image:
     url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg' 
     alt: 'The Astro logo with the word One.'
-tags: ["smart grid", "IOT", "learning in public"]
+pubDate: 2022-08-08
+tags: ["smart grid", "iot"]
 ---
 Welcome to Astro! Here, I will share my learning journey as I build a new website.
 
