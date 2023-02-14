@@ -1,6 +1,6 @@
 html {
-    background-color: #f1f5f9;
-    font-family: sans-serif;
+    background-color: ##FFFBFE;
+    font-family: roboto;
 }
 
 body {
@@ -37,11 +37,11 @@ Use a @media query to define different styles for larger screen sizes
     width: 40px;
     height: 5px;
     margin-bottom: 10px;
-    background-color: #ff9776;
+    background-color: #CAC4D0;
 }
 
 .dark body {
-    background-color: #0d0950;
+    background-color: #1C1B1F;
     color: #fff;
 }
 
@@ -53,7 +53,7 @@ Use a @media query to define different styles for larger screen sizes
     width: 100%;
     top: 5rem;
     left: 48px;
-    background-color: #ff9776;
+    background-color: #CAC4D0;
     display: none;
     margin: 0;
 }
@@ -70,7 +70,7 @@ Use a @media query to define different styles for larger screen sizes
 
 .nav-links a:hover,
 a:focus {
-    background-color: #ff9776;
+    background-color: #CAC4D0;
 }
 
 .expanded {
