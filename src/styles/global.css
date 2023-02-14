@@ -52,7 +52,7 @@ Use a @media query to define different styles for larger screen sizes
 .nav-links {
     width: 100%;
     top: 5rem;
-    left: 48px;
+    right: 48px;
     background-color: #CAC4D0;
     display: none;
     margin: 0;
@@ -63,14 +63,14 @@ Use a @media query to define different styles for larger screen sizes
     text-align: center;
     padding: 10px 0;
     text-decoration: none;
-    font-size: 1.2rem;
+    font-size: 1.rem;
     font-weight: bold;
     text-transform: uppercase;
 }
 
 .nav-links a:hover,
 a:focus {
-    background-color: #CAC4D0;
+    background-color: #535056;
 }
 
 .expanded {
